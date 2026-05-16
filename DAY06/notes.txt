@@ -135,7 +135,7 @@ Git pull and git fetch
 
 By using this commands , we will get an updated code from remote repo.
 
-
+(Topic is covered in video 7th of |Git on 14th May 2026)
 
 Git fetch
 —---------
